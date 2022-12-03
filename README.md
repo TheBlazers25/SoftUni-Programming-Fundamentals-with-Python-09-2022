@@ -10,4 +10,5 @@ Each assignement was tested using [SoftUni Judge System](https://judge.softuni.o
 * [SoftUni Judge System documentation](https://judge.softuni.org/Content/PublicFiles/SoftUni-Judge-System-Guidelines-en.pdf)
 * [Open Judge System GitHub](https://github.com/NikolayIT/OpenJudgeSystem)
 
+
 All SoftUni courses can be found [here](https://softuni.bg/trainings/opencourses)
