@@ -8,7 +8,7 @@ Founded in 2013, [SoftUni](https://about.softuni.bg) provides training and caree
 
 Each assignement was tested using [SoftUni Judge System](https://judge.softuni.org). For more information regarding the system
 * [SoftUni Judge System documentation](https://judge.softuni.org/Content/PublicFiles/SoftUni-Judge-System-Guidelines-en.pdf)
-* [Open Judge System GitHub](https://github.com/NikolayIT/OpenJudgeSystem)
+* [Open Judge System GitHub](https://github.com/NikolayIT/OpenJudgeSystem)  
 
 
 All SoftUni courses can be found [here](https://softuni.bg/trainings/opencourses)
